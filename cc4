@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-01T14:38:43.793Z" agent="5.0 (X11)" etag="ln4IgJO0xk0sLdujMU0A" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-01T14:42:29.774Z" agent="5.0 (X11)" etag="hsXhE3Hlqi5w9Ov_WszJ" version="13.6.6" type="github">
   <diagram id="3jzclnpdLC6HcrEk8ALy" name="Page-1">
     <mxGraphModel dx="1355" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -96,6 +96,18 @@
         </mxCell>
         <mxCell id="-olnEGkXKKgKcLcpKjPF-63" value="c&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="205" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-olnEGkXKKgKcLcpKjPF-64" value="(a) c est un parent de c&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="290" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-olnEGkXKKgKcLcpKjPF-65" value="(b) c est un grand-parent de c&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="290" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-olnEGkXKKgKcLcpKjPF-66" value="(c) est un arrière grand-parent de c&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="500" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-olnEGkXKKgKcLcpKjPF-67" value="(d) Plus de trois générations séparent c et c&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="500" width="250" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
