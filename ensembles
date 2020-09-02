@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-02T15:54:45.756Z" agent="5.0 (X11)" etag="j62YIWIqPk8ojrUhPd3e" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-02T15:55:59.913Z" agent="5.0 (X11)" etag="sx8ibrchfnKfvN9mOIns" version="13.6.6" type="github">
   <diagram id="2qQ1kT2DbHZal4ZBgxCm" name="Page-1">
     <mxGraphModel dx="1355" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="5Q0fK0a9c0xRLMWW5k-c-24" value="Ensemble des éléments de value" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="340" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-25" value="Ensemble des éléments de definer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-25" value="Ensemble des éléments de Definer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="550" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5Q0fK0a9c0xRLMWW5k-c-41" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -85,7 +85,7 @@
         <mxCell id="5Q0fK0a9c0xRLMWW5k-c-53" value="Ensemble des éléments de value" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="340" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-54" value="Ensemble des éléments de definer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-54" value="Ensemble des éléments de Definer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="550" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5Q0fK0a9c0xRLMWW5k-c-55" value="v1 : positionV : 450" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
