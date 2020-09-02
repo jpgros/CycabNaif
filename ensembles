@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-02T14:28:20.533Z" agent="5.0 (X11)" etag="0TqhmAwOqpD0eQojqzcN" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-02T14:32:55.369Z" agent="5.0 (X11)" etag="PSgifMT9YJrawf3u0Vxn" version="13.6.6" type="github">
   <diagram id="2qQ1kT2DbHZal4ZBgxCm" name="Page-1">
     <mxGraphModel dx="1355" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,22 +8,16 @@
           <mxGeometry x="180" y="210" width="380" height="140" as="geometry" />
         </mxCell>
         <mxCell id="5Q0fK0a9c0xRLMWW5k-c-2" value="v1 : speed 80" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="199" y="230" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-3" value="v2 : goal : 40" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="290" width="100" height="40" as="geometry" />
+          <mxGeometry x="220" y="230" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5Q0fK0a9c0xRLMWW5k-c-4" value="v1 : goal : 200" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="230" width="100" height="40" as="geometry" />
+          <mxGeometry x="380" y="230" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-5" value="v2 : speed : 100" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="290" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-7" value="v2 : battery : 35" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="290" width="100" height="40" as="geometry" />
+        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-5" value="s1 : positionS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="290" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5Q0fK0a9c0xRLMWW5k-c-12" value="v1 : battery : 60" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="230" width="100" height="40" as="geometry" />
+          <mxGeometry x="220" y="290" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5Q0fK0a9c0xRLMWW5k-c-13" value="value" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="210" width="40" height="20" as="geometry" />
@@ -35,13 +29,10 @@
           <mxGeometry x="180" y="420" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5Q0fK0a9c0xRLMWW5k-c-18" value="battery : Vehicle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="440" width="100" height="40" as="geometry" />
+          <mxGeometry x="220" y="440" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5Q0fK0a9c0xRLMWW5k-c-19" value="speed : Vehicle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="440" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-20" value="goal : Vehicle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="440" width="100" height="40" as="geometry" />
+          <mxGeometry x="380" y="440" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5Q0fK0a9c0xRLMWW5k-c-21" value="positionV : Vehicle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="500" width="130" height="40" as="geometry" />
