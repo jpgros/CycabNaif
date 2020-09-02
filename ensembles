@@ -1,50 +1,110 @@
-<mxfile host="app.diagrams.net" modified="2020-09-02T14:35:58.831Z" agent="5.0 (X11)" etag="dZo81G5BQqH0ET98KUom" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-02T15:14:38.329Z" agent="5.0 (X11)" etag="uMWzyKkuuX5g0_V5nrgt" version="13.6.6" type="github">
   <diagram id="2qQ1kT2DbHZal4ZBgxCm" name="Page-1">
     <mxGraphModel dx="1355" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="180" y="210" width="370" height="140" as="geometry" />
+        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="20" y="200" width="370" height="140" as="geometry" />
         </mxCell>
         <mxCell id="5Q0fK0a9c0xRLMWW5k-c-2" value="v1 : speed 80" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="230" width="130" height="40" as="geometry" />
+          <mxGeometry x="60" y="220" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5Q0fK0a9c0xRLMWW5k-c-4" value="v1 : goal : 200" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="230" width="130" height="40" as="geometry" />
+          <mxGeometry x="220" y="220" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5Q0fK0a9c0xRLMWW5k-c-5" value="s1 : positionS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="290" width="130" height="40" as="geometry" />
+          <mxGeometry x="220" y="280" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5Q0fK0a9c0xRLMWW5k-c-12" value="v1 : battery : 60" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="290" width="130" height="40" as="geometry" />
+          <mxGeometry x="60" y="280" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5Q0fK0a9c0xRLMWW5k-c-13" value="value" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="210" width="40" height="20" as="geometry" />
+          <mxGeometry x="20" y="200" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="180" y="420" width="370" height="140" as="geometry" />
+        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="20" y="410" width="370" height="140" as="geometry" />
         </mxCell>
         <mxCell id="5Q0fK0a9c0xRLMWW5k-c-15" value="definer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="420" width="40" height="20" as="geometry" />
+          <mxGeometry x="20" y="410" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5Q0fK0a9c0xRLMWW5k-c-18" value="battery : Vehicle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="440" width="130" height="40" as="geometry" />
+          <mxGeometry x="60" y="490" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5Q0fK0a9c0xRLMWW5k-c-19" value="speed : Vehicle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="440" width="130" height="40" as="geometry" />
+          <mxGeometry x="60" y="430" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5Q0fK0a9c0xRLMWW5k-c-21" value="positionV : Vehicle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="500" width="130" height="40" as="geometry" />
+          <mxGeometry x="220" y="430" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5Q0fK0a9c0xRLMWW5k-c-22" value="positionS : Station" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="500" width="130" height="40" as="geometry" />
+          <mxGeometry x="220" y="490" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5Q0fK0a9c0xRLMWW5k-c-24" value="Ensemble des éléments de value" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="350" width="180" height="20" as="geometry" />
+          <mxGeometry x="120" y="340" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5Q0fK0a9c0xRLMWW5k-c-25" value="Ensemble des éléments de definer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="560" width="200" height="20" as="geometry" />
+          <mxGeometry x="110" y="550" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-41" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="370" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-42" value="v1 : speed : 80" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="220" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-43" value="v1 : goal : 200" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-44" value="s1 : positionS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="280" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-45" value="v1 : battery : 60" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="280" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-46" value="value" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-47" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="440" y="410" width="370" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-48" value="definer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="410" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-49" value="battery : Vehicle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="490" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-50" value="speed : Vehicle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="430" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-51" value="positionV : Vehicle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="430" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-52" value="positionS : Station" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="490" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-53" value="Ensemble des éléments de value" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="340" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-54" value="Ensemble des éléments de definer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="550" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-55" value="v1 : positionV : 450" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="560" y="220" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-56" value="goal : Vehicle" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="700" y="430" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-57" value="Configuration A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-58" value="" style="shape=link;html=1;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="410" y="160" as="sourcePoint" />
+            <mxPoint x="410" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Q0fK0a9c0xRLMWW5k-c-60" value="Configuration B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="575" y="160" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
